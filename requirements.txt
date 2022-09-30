@@ -1,5 +1,8 @@
 numpy==1.14.5
 pandas
 matplotlib
+sklearn
+keras
+tensorflow
 
 #multiprocessing
