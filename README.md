@@ -6,17 +6,17 @@ This repository contains labs and machine Learning projects from IBM, freeCodeCa
 
 ##Courses
 
-## IBM Python course for Data Science
-Cource can be found [there](). Notebook can be found [here]().
+## IBM Python course for Data Science, AI and Development
+Cource can be found [there](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome). Notebook can be found [here](https://github.com/olgaklischuk/python-cource/IBM DS course/).
 
-<img src="/.svg" width=50 height=50 align="left">
+<img src="IBM DS course/ibm-learn.svg" width=50 height=50 align="left">
 
 ## FreeCodeCamp Python course for Data Science
-Notebook can be found [here]().
+Notebook can be found [here](https://github.com/olgaklischuk/python-cource/freeCodeCamp_Python_for_Data_Science/).
 
-<img src="/.svg" width=50 height=50 align="left">
+<img src="python-learn/python-learn.svg" width=50 height=50 align="left">
 
 ## FreeCodeCamp Scikit-Learn begginerrs cource for Data Science
-Notebook can be found [here]().
+Notebook can be found [here](https://github.com/olgaklischuk/python-cource/tree/main/scikit-learn).
 
-<img src="/.svg" width=50 height=50 align="left">
+<img src="scikit-learn/scikit-learn.svg" width=50 height=50 align="left">
