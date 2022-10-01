@@ -4,7 +4,7 @@
 
 This repository contains labs and machine Learning projects from IBM, freeCodeCamp MOOC.
 
-##Courses
+## Courses
 
 ## IBM Python course for Data Science, AI and Development
 Cource can be found [there](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome). Notebook can be found [here](https://github.com/olgaklischuk/python-cource/IBM DS course/).
