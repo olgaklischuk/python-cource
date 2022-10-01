@@ -15,7 +15,7 @@ Cource can be found [there](https://www.coursera.org/learn/python-for-applied-da
 ## FreeCodeCamp Python course for Data Science
 Notebook can be found [here](https://github.com/olgaklischuk/python-cource/freeCodeCamp_Python_for_Data_Science/).
 
-<img src="python-learn/python-learn.svg" width=50 height=50 align="left">
+<img src="freeCodeCamp_Python_for_Data_Science/python-learn.svg" width=50 height=50 align="left">
 
 ## FreeCodeCamp Scikit-Learn begginerrs cource for Data Science
 Notebook can be found [here](https://github.com/olgaklischuk/python-cource/tree/main/scikit-learn).
