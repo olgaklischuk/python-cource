@@ -7,7 +7,7 @@ This repository contains labs and machine Learning projects from IBM, freeCodeCa
 
 ## Courses
 
-<img src="IBM DS course/ibm-learn.svg" width=50 height=50 align="left">
+<img src="IBM%20DS%20cource/ibm-learn.svg" width=50 height=50 align="left">
 
 ## IBM Python course for Data Science, AI and Development
 Cource can be found [there](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome). Notebook can be found [here](https://github.com/olgaklischuk/python-cource/tree/main/IBM%20DS%20cource).
