@@ -4,5 +4,7 @@ matplotlib
 sklearn
 keras
 tensorflow
+sys
+time
 
 #multiprocessing
