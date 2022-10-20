@@ -5,7 +5,5 @@ sklearn
 scikit-learn
 keras
 tensorflow
-sys
-time
 
 #multiprocessing
