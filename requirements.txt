@@ -8,5 +8,6 @@ scikit-learn
 #scikit-lego
 keras
 tensorflow
+git+https://github.com/Calysto/matlab_kernel
 
 #multiprocessing
