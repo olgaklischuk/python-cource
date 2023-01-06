@@ -1,6 +1,9 @@
 numpy==1.14.5
 pandas
 matplotlib
+seaborn
+xlrd
+openpyxl
 scikit-learn
 #scikit-lego
 keras
