@@ -9,5 +9,6 @@ scikit-learn
 keras
 tensorflow
 git+https://github.com/Calysto/matlab_kernel
+octave-kernel
 
 #multiprocessing
