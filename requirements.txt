@@ -26,7 +26,7 @@ beautifulsoup4
 bleach
 blis
 catalogue
-certifi==2022.5.18.1
+certifi
 cffi
 charset-normalizer
 click
@@ -107,7 +107,7 @@ six
 smart-open
 sniffio
 sortedcontainers
-soupsieve==2.3.2.post1
+soupsieve
 spacy
 spacy-legacy
 spacy-loggers
@@ -118,7 +118,7 @@ thinc
 tinycss2
 tornado
 tqdm
-traitlets==5.2.1.post0
+traitlets
 trio
 trio-websocket
 typer
