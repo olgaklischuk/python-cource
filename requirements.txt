@@ -45,7 +45,7 @@ h11
 idna
 importlib-metadata
 ipykernel
-ipython==8.3.0
+ipython
 ipython-genutils
 jedi
 Jinja2
